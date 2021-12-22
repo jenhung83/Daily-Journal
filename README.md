@@ -1,5 +1,8 @@
-# Daily-Journal
+# Daily-Journal\
 A project from Udemy
-下載之後請先npm install
-啟動npm
-到localhost:3000/以進行後續步驟 :)
+<ul>
+  <li>下載之後請先npm install安裝node modules</li>
+  <li>啟動npm</li>
+  <li>到localhost:3000/以進行後續步驟 :)</li>
+</ul>
+
